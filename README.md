@@ -146,8 +146,8 @@ Through this project, I gained practical understanding of:
 
 ### R-Type Verification
 
- <img width="300" height="300" alt="Screenshot 2026-06-15 000325" src="https://github.com/user-attachments/assets/3394db6c-d4ee-41e2-982e-432e66c0660f" />
- <img width="300" height="300" alt="Screenshot 2026-06-14 235205" src="https://github.com/user-attachments/assets/d12cf20a-4c9a-4b66-bdbc-10f4565d7b8b" />
+ <img width="500" height="500" alt="Screenshot 2026-06-15 000325" src="https://github.com/user-attachments/assets/3394db6c-d4ee-41e2-982e-432e66c0660f" />
+ <img width="500" height="500" alt="Screenshot 2026-06-14 235205" src="https://github.com/user-attachments/assets/d12cf20a-4c9a-4b66-bdbc-10f4565d7b8b" />
 
 
 

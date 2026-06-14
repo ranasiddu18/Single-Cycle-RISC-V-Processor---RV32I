@@ -137,7 +137,8 @@ Through this project, I gained practical understanding of:
 
 ## Datapath Block Diagram
 
-> Insert Datapath Diagram Here
+<img width="460" height="295" alt="Screenshot 2026-06-11 221949" src="https://github.com/user-attachments/assets/2210fbe6-916c-4609-95c0-3428f5850c95" />
+
 
 ---
 
@@ -145,19 +146,29 @@ Through this project, I gained practical understanding of:
 
 ### R-Type Verification
 
-> Insert Simulation Screenshot Here
+ <img width="300" height="300" alt="Screenshot 2026-06-15 000325" src="https://github.com/user-attachments/assets/3394db6c-d4ee-41e2-982e-432e66c0660f" />
+ <img width="300" height="300" alt="Screenshot 2026-06-14 235205" src="https://github.com/user-attachments/assets/d12cf20a-4c9a-4b66-bdbc-10f4565d7b8b" />
+
+
 
 ### I-Type Verification
 
-> Insert Simulation Screenshot Here
+ <img width="300" height="300" alt="Screenshot 2026-06-15 002325" src="https://github.com/user-attachments/assets/e37eef9b-96bd-49e9-99a6-25377c95e24a" />
+ <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e57f52fa-73ab-44cb-b34f-cdb9bd8811d1" />
+
+
 
 ### Memory Operations Verification
 
-> Insert Simulation Screenshot Here
+ <img width="300" height="300" alt="Screenshot 2026-06-15 004610" src="https://github.com/user-attachments/assets/663deddd-b3a3-4f0a-a63f-0e28fd4db0d2" />
+ <img width="300" height="300" alt="Screenshot 2026-06-15 004856" src="https://github.com/user-attachments/assets/68353083-5daa-4413-b920-874047952a0b" />
+
+
 
 ### Branch Verification
 
-> Insert Simulation Screenshot Here
+ <img width="300" height="300" alt="Screenshot 2026-06-15 010720" src="https://github.com/user-attachments/assets/1b2a5d8b-5fce-45d5-a9c1-82ff5f21be97" />
+ <img width="300" height="300" alt="Screenshot 2026-06-15 010754" src="https://github.com/user-attachments/assets/5caf5d25-38ca-483f-89f8-cb5b6e9f162e" />
 
 ---
 

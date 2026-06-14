@@ -137,7 +137,7 @@ Through this project, I gained practical understanding of:
 
 ## Datapath Block Diagram
 
-<img width="460" height="295" alt="Screenshot 2026-06-11 221949" src="https://github.com/user-attachments/assets/2210fbe6-916c-4609-95c0-3428f5850c95" />
+<img width="700" height="300" alt="Screenshot 2026-06-11 221949" src="https://github.com/user-attachments/assets/2210fbe6-916c-4609-95c0-3428f5850c95" />
 
 
 ---

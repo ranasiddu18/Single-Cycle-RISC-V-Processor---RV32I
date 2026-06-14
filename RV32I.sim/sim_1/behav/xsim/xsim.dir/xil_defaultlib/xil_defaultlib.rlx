@@ -1,0 +1,24 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/vivado/RV32I/RV32I.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/vivado/RV32I/RV32I.srcs/sim_1/new/imm_gen_tb.v,1781030539,verilog,,,,imm_gen_tb,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sim_1/new/tb_imm_gen.v,1781030144,verilog,,,,tb_imm_gen,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sim_1/new/tb_regfile.v,1780937677,verilog,,,,tb_regfile,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sim_1/new/test_bench.v,1781466592,verilog,,,,test_bench,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/ALU_Control.v,1781211908,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/ALU_unit.v,,ALU_Control,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/ALU_unit.v,1781459356,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Adder.v,,ALU_unit,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Adder.v,1781295624,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/And_logic.v,,Adder,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/And_logic.v,1781294050,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Control_unit.v,,And_logic,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Control_unit.v,1781451118,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Data_Memory.v,,Control_unit,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Data_Memory.v,1781295628,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Immediate_Gen.v,,Data_Memory,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Immediate_Gen.v,1781451342,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Instruction_Mem.v,,Immediate_Gen,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Instruction_Mem.v,1781466522,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Mux1.v,,Instruction_Mem,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Mux1.v,1781291302,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/Register_file.v,,Mux1,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/Register_file.v,1780937705,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/mux2.v,,Register_file,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/mux2.v,1781295628,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/mux3.v,,mux2,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/mux3.v,1781291733,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/pc_plus4.v,,mux3,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/pc_plus4.v,1780768005,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/prog_counter.v,,pc_plus4,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/prog_counter.v,1780765963,verilog,,C:/vivado/RV32I/RV32I.srcs/sources_1/new/top_module.v,,prog_counter,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/vivado/RV32I/RV32I.srcs/sources_1/new/top_module.v,1781450923,verilog,,C:/vivado/RV32I/RV32I.srcs/sim_1/new/test_bench.v,,top_module,,,../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
